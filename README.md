@@ -2,26 +2,27 @@
 
 This project analyzes global unemployment trends across countries, genders, and age groups using data from Kaggle. The dataset contains unemployment rates from 2014 to 2024.
 
-🔗 [View on Kaggle](https://www.kaggle.com/code/egaoctavina/global-unemployment-analysis-ega-octavina)
+🔗 [View on Kaggle](https://www.kaggle.com/code/egaoctavina/global-unemployment-analysis-ega-octavina)  
+🔗 [View Notebook with Visualizations](global_unemployment_analysis_with_visualizations.ipynb)
 
 ## 📁 Project Features
 
 - ✅ Cleaned and reshaped a multi-year dataset (wide to long format)
-- 📊 Handled missing values and data types
-- 🌐 Analyzed trends by year, country, gender, and age group
-- ✍️ Ready for visualization in the next phase
+- 📊 Handled missing values and fixed data types
+- 📉 Visualized trends by year, gender, and country
+- 🌐 Explored global unemployment distribution over time
 
 ## 🛠️ Tools Used
 
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook (via Kaggle)
 - GitHub for version control
 
 ## 🚀 Future Enhancements
 
-- Visualize trends using Matplotlib or Seaborn
-- Build an interactive dashboard using Tableau or Power BI
-- Add global comparison tables or animations
+- Add more complex analytics (e.g., trend forecasting)
+- Expand comparisons by economic region or income group
+- Consider interactive visualizations (in future projects)
 
 ## 👤 Author
 
